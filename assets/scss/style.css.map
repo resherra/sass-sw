@@ -1,11 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AEAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,KAAK;CAC1B;;AAED,AAAA,EAAE,CAAA;EACE,KAAK,EAAE,GAAG;CACb",
-    "sources": [
-        "style.scss",
-        "_page-content.scss",
-        "_nav.scss"
-    ],
-    "names": [],
-    "file": "style.css"
-}
+{"version":3,"sources":["_nav.scss","style.css"],"names":[],"mappings":"AAAA;EACI,cAAA;ACCJ","file":"style.css"}
